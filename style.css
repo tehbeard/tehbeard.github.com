@@ -1,13 +1,16 @@
 .mainBody{
   margin:auto;
   width:700px;
+  border: solid 1px;
 }
 .menuBar{
   width:250px;
   float:left;
+  border: solid 1px;
 }
 .contentBar{
   float:Right;
+  border: solid 1px;
 }
 .footerBar{
 clear:both;

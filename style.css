@@ -1,0 +1,14 @@
+.mainBody{
+  margin:auto;
+  width:700px;
+}
+.menuBar{
+  width:250px;
+  float:left;
+}
+.contentBar{
+  float:Right;
+}
+.footerBar{
+clear:both;
+}
